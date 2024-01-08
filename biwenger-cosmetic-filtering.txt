@@ -4,4 +4,4 @@
 ! Last modified: 08 Jan 2024 14:00 CEST
 ! Expires: 4 days (update frequency)
 
-##.cdk-overlay-container
+##.cdk-overlay-backdrop.cdk-overlay-dark-backdrop.cdk-overlay-backdrop-showing
