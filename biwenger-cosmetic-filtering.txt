@@ -1,1 +1,7 @@
+[Adblock Plus 2.0]
+! Version: 20240108.1
+! Title: Biwenger Filter List
+! Last modified: 08 Jan 2024 14:00 CEST
+! Expires: 4 days (update frequency)
+
 ##.cdk-overlay-container
