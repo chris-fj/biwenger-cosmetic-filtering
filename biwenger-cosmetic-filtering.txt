@@ -1,1 +1,1 @@
-.cdk-overlay-container
+*##.cdk-overlay-container
