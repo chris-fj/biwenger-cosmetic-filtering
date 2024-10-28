@@ -1,22 +1,15 @@
 [Adblock Plus 2.0]
 ! Version: 20240108.1
 ! Title: Biwenger Filter List
-! Last modified: 08 Jan 2024 14:00 CEST
+! Last modified: 28 Oct 2024 08:39 CET
 ! Expires: 4 days (update frequency)
 
-##.cdk-overlay-backdrop.cdk-overlay-dark-backdrop.cdk-overlay-backdrop-showing
-###cdk-overlay-0 > ng-component
-
-##._vv5hb9
-
-##._11nzr3t
-
-##.area-gr.g-ftd > div.row:nth-of-type(1) > .col-md-4.col-sm-12.col-xs-12 > div.ad:nth-of-type(1) > .ad__cnt
-
-##.ad.ad--ldb1
-
-##.area-gr.g-ftd > div.row:nth-of-type(1) > .col-md-4.col-sm-12.col-xs-12 > div.ad:nth-of-type(2) > .ad__cnt
-
-##.ct > section.area:nth-of-type(2) > div.area-gr:nth-of-type(2) > div.row:nth-of-type(1) > div.col-md-4.col-sm-6.col-xs-12:nth-of-type(2)
-
-##.area.area--vtop > .area-gr > .ad > .ad__cnt
+biwenger.as.com##.cdk-overlay-backdrop.cdk-overlay-dark-backdrop.cdk-overlay-backdrop-showing
+biwenger.as.com###cdk-overlay-0 > ng-component
+as.com##._vv5hb9
+as.com##._11nzr3t
+as.com##.area-gr.g-ftd > div.row:nth-of-type(1) > .col-md-4.col-sm-12.col-xs-12 > div.ad:nth-of-type(1) > .ad__cnt
+as.com##.ad.ad--ldb1
+as.com##.area-gr.g-ftd > div.row:nth-of-type(1) > .col-md-4.col-sm-12.col-xs-12 > div.ad:nth-of-type(2) > .ad__cnt
+as.com##.ct > section.area:nth-of-type(2) > div.area-gr:nth-of-type(2) > div.row:nth-of-type(1) > div.col-md-4.col-sm-6.col-xs-12:nth-of-type(2)
+as.com##.area.area--vtop > .area-gr > .ad > .ad__cnt
